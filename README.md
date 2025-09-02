@@ -1,12 +1,46 @@
-# React + Vite
+1. Student Greeting
+Hi my name is Rahul and my age is 21
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+2. Product Price Calculation
+Show product name = Wireless Mouse
+Quantity = 3
+price per unit = 499
+Total Cost = 1497
 
-Currently, two official plugins are available:
+3. Conditional Attendance Status
+Anjali is Present
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+4. Full Name Formatting
+Full Name = Amit Sharma
 
-## Expanding the ESLint configuration
+5. Loan EMI Display
+Show loan amount = 500000
+Interest rate = 8%
+Tenure = 5 years
+EMI = 10138.20
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+6. Favorite Subjects List
+Math
+Science
+English
+
+7. Employee Salary Breakdown
+Employee’s basic salary = 25000
+HRA = 10000
+Total salary = 35000
+
+8. Product Discounted Price
+Original price = 20000
+Discount percentage = 10%
+Final price = 18000
+
+9. Online Order Summary
+Order id = ORD1234
+Customer name = Meena
+Number of items = 4
+Total price = 12800
+
+10. Weather Report
+City name = Mumbai
+Temperature in Celsius = 30 C
+convert it to Fahrenheit = 86 f
