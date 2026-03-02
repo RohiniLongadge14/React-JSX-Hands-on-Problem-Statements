@@ -34,9 +34,11 @@ Original price = 20000
 Discount percentage = 10%
 Final price = 18000
 
-
-
-
+9. Online Order Summary
+Order id = ORD1234
+Customer name = Meena
+Number of items = 4
+Total price = 12800
 
 10. Weather Report
 City name = Mumbai
